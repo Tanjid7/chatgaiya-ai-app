@@ -14,7 +14,7 @@ st.markdown("""
 <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
+    /* header {visibility: hidden;} <- REMOVED THIS LINE TO KEEP SIDEBAR TOGGLE VISIBLE */
     .main-container { padding-top: 2rem; }
     .app-title {
         font-size: 3.5rem; font-weight: 800;
