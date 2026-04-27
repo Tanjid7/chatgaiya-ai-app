@@ -76,7 +76,7 @@ with st.sidebar:
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown('<div class="qnfl-badge">Built by <span>QNFL</span></div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
-    st.caption("v2.1 Pipeline | Secure Enterprise Instance")
+  
 
 # --- 4. Main Interface ---
 st.markdown('<p class="app-title">Chatgaiya AI</p>', unsafe_allow_html=True)
